@@ -137,6 +137,11 @@ a:hover{text-decoration:underline;}
     display:table-row;
     background: #50af6f;
 }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
 .wrapper-holder.grey{background: #28292b;}
 #header {
 	max-width: 1170px;
